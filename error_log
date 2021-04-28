@@ -1,0 +1,6 @@
+[02-Jul-2020 08:49:10 America/Boise] PHP Warning:  mkdir(): No such file or directory in /home1/syrostec/public_html/admin/insert-course.php on line 34
+[02-Jul-2020 08:49:10 America/Boise] PHP Warning:  move_uploaded_file(courseimages/1/flutter.jpg): failed to open stream: No such file or directory in /home1/syrostec/public_html/admin/insert-course.php on line 37
+[02-Jul-2020 08:49:10 America/Boise] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpQzYPJ9' to 'courseimages/1/flutter.jpg' in /home1/syrostec/public_html/admin/insert-course.php on line 37
+[02-Jul-2020 08:49:10 America/Boise] PHP Warning:  move_uploaded_file(courseimages/1/IMG_20181220_075451_254.jpg): failed to open stream: No such file or directory in /home1/syrostec/public_html/admin/insert-course.php on line 38
+[02-Jul-2020 08:49:10 America/Boise] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpP2xRyL' to 'courseimages/1/IMG_20181220_075451_254.jpg' in /home1/syrostec/public_html/admin/insert-course.php on line 38
+[26-Jul-2020 22:39:38 America/Boise] PHP Warning:  POST Content-Length of 352957195 bytes exceeds the limit of 272629760 bytes in Unknown on line 0
